@@ -1,10 +1,10 @@
 # CsharpBasico
 
-# Primeiro desafio -AprendendoCsharp 
+# Primeiro desafio - Deduçoes IR 
 Montando a logica de dedução do IR
 
 
-# Segundo desafio - SegundoProjeto
+# Segundo desafio - Multiplos
   Retorna os Multiplos de 3 
   
 # Terceiro desafio - Fatorial
